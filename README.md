@@ -14,6 +14,9 @@ There are a range of options.
 - [ ] Create true false questions
 - [ ] Create game with questions
 
+- [x] Single player
+- [ ] Multi player
+
 ## Is it any good?
 You can try it out yourself! 
-You just have to run the main.py.
+You just have to **run the main.py**.
