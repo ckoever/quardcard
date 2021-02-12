@@ -21,3 +21,4 @@ You can play as:
 ## Is it any good?
 You can try it out yourself! 
 You just have to **run the main.py**.
+![alt text](EPL1.png)
