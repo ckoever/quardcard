@@ -1,6 +1,8 @@
 # quardcard
 A learning aid
 
+![status](https://img.shields.io/badge/%20status-%F0%9F%94%B4%20No%20further%20development%20planned-red)
+
 ## What can I do with that?
 If you need help with learning, this tool can help! It has a wide variety of functions.
 You can create quardcard files with a creator, share these files to other quardcard users and help yourself to learn.
